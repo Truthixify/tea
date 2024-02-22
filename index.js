@@ -1,1 +1,5 @@
-console.log("YAY TEA!!!");
+function teaConsoleLogger() {
+  console.log("YAY TEA!!!");
+}
+
+module.exports = teaConsoleLogger;
